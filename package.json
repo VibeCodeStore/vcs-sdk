@@ -1,0 +1,15 @@
+{
+  "name": "@vcs/sdk",
+  "version": "0.1.0",
+  "description": "The SDK that apps built on VCS use to reach approved company data.",
+  "type": "module",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=20"
+  }
+}
